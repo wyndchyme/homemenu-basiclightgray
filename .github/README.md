@@ -6,4 +6,5 @@ A basic light gray theme for the Nintendo 3DS HOME Menu.
 
 # Credits
 Built with [Kame Editor](https://beelzy.gitlab.io/kame-editor/)
+
 Designed by [wyndchyme](https://wyndchyme.github.io/)
